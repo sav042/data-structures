@@ -3,6 +3,8 @@ module data_structures
 go 1.21.3
 
 require (
+	github.com/deckarep/golang-set v1.8.0
+	github.com/emirpasic/gods v1.18.1
 	github.com/gammazero/deque v0.2.1
 	github.com/stretchr/testify v1.8.4
 )
